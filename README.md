@@ -7,7 +7,7 @@ langkah-langkah menjalankan.
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
-<li>$ git clone https://github.com/https-github-com-mrx0rm/spamcall/tree/master
+<li>$ git clonehttps://github.com/https-github-com-mrx0rm/x0rm
 <li>$ cd SpamSms
 <li>$ php ngisengin_sekelas.php
 <li> Masukan No Target ===> 
