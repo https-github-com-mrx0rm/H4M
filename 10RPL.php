@@ -13,12 +13,12 @@ function send($phone){
 }
 echo "
 ############################################################
-    Spammer Call From TOKOPEDIA
-        Author By   : AyipBontos
-        Support     : Kunjungi Website Kami
-        Website     : https://termux.id
-        Youtube     : Omalip TV
-     Penggunaannya  : Bisa Menggunakan [08/62]
+    Spammer Call From NASA.gov
+        dibuat oleh : ANDIKA WAHYU DAN MUHAMMAD ILHAM IRVIAN
+        school      : SMK MEDIAINFORMATIKA
+        Website     : http://ilhamirvian.dx.am
+        instagram   : @irvianofficial dan @lesotole
+        BUCIN       : hanya mengutamakan tiga kata dengan sejuta arti yaitu bahagia dan bersama. I LOVE YOU SAYANG :)
 ###########################################################\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
