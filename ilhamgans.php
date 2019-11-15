@@ -1,5 +1,5 @@
 <?php
-//  Nama oenbuat : Mr.X0rm h4m
+//  Nama penbuat : Mr.X0rm h4m
 // Information List : 4075 list
 // hubungi kami : ilhamirvian222@gmail.com
 // Instagram : @irvianofficial
