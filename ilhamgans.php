@@ -1,9 +1,9 @@
 <?php
-// Author Name : Mr.cakil
-// Information List : 4001 list
-// contact here : mrcakil@programmer.net
-// Fb : http://facebook.com/dendisaimam.dendisaimam.1
-// greetz : IndoXploit - AnonCyberTeam - 99syndicate
+//  Nama oenbuat : Mr.X0rm h4m
+// Information List : 4075 list
+// hubungi kami : ilhamirvian222@gmail.com
+// Instagram : @irvianofficial
+// member : MILW0RM
 
 print "   
 	
@@ -14,9 +14,9 @@ print "
 ██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║    ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                                          
-                Admin Finder - coded by ./Mr.cakil
-  Information list : 4001 list
-  Thanks to  :IndoXploit - AnonCyberTeam - 99syndicate
+                Admin Finder - coded ./Mr.X0rm
+  Information list : 4075 list
+   member : MILW0RM
 ";
 
 echo "masukan site  : ";
