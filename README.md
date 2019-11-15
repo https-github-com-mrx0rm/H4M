@@ -1,10 +1,10 @@
-# admin_finder cli based
-# Information List : 4001 list admin
-# contact : mrcakil@programmer.net
-# Greetz : IndoXploit - AnonCyberTeam - 99Syndicate
+# admin_finder
+# INFORMATION LIST : 4075 list admin
+# HUBUNGI : ilhamirvian222@gmail.com
+# MEMBER : MILW0RM
 
-# how to install :
-# git clone https://github.com/mrcakil/admin_finder
+# cara meginstal :
+# git clone https://github.com/https-github-com-mrx0rm/XRPL
 # cd admin_finder
-# chmod +x adfin.php cakil_wordlist.txt
-# php adfin.php
+# chmod +x ilhamgans.php wordlist.txt
+# php ilhamgans.php
