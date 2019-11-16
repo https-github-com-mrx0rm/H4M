@@ -19,7 +19,7 @@ print "
    member : MILW0RM
 ";
 
-echo "masukan site  : ";
+echo "Website name  : ";
 $target = trim(fgets(STDIN));
 $list = "wordlist.txt";
 if(!preg_match("/^http:\/\//",$target) AND !preg_match("/^https:\/\//",$target)){
@@ -44,9 +44,9 @@ foreach($lists as $login){
 	if($httpcode == 200){
 		 $handle = fopen("result.txt", "a+");
 		fwrite($handle, "$log\n");
-		print "\n\n [".date('H:m:s')."] Mencoba : $log => Ditemukan\n";
+		print "\n\n [".date('H:m:s')."] Succes : $log => Ditemukan\n";
 	}else{
-		print "\n[".date('H:m:s')."] Mencoba : $log => tidak di temukan";
+		print "\n[".date('H:m:s')."] Cracking : $log => tidak di temukan";
 	}
 }
   
